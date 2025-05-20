@@ -31,7 +31,7 @@ Command k + v
 ![Provide GitHub Permissions](assets/images/authorize-colab-and%20github.png)
 5. Once done when you save it would now open a popup with the commit comments dialog to check-in this notebook to GitHub
 ![Provide Commit Comments](assets/images/save-to-github-popup.png) 
-6. Once the commit message are entered click "Ok"
+6. Once the commit message is entered click "Ok"
 7. The notebook would now be checked-in
 8. You can continue to edit and repeat the process to make more changes.
 
